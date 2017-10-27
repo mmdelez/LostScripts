@@ -9,5 +9,6 @@
     <Import_RootNamespace>LostScripts</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Game1.cs" />
   </ItemGroup>
 </Project>

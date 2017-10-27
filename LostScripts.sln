@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostScripts.iOS", "LostScri
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		LostScripts\LostScripts.projitems*{2b4093eb-6009-4f69-9b94-bc4f3a0d0ce8}*SharedItemsImports = 4
+		LostScripts\LostScripts.projitems*{a932a9eb-27d5-41f6-a970-5d46f68ec8c3}*SharedItemsImports = 4
 		LostScripts\LostScripts.projitems*{b11aae23-19c4-4fee-a520-b4a543dda433}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
